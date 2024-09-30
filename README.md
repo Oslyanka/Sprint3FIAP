@@ -32,7 +32,7 @@ Este projeto é uma aplicação em Python que gerencia jogadores e suas partidas
 
 2. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/Oslyanka/Sprint3FIAP.git
    ```
 
 3. **Navegar até o Diretório**:
